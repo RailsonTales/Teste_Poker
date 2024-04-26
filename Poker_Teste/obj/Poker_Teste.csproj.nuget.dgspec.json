@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker_Teste\\Poker_Teste.csproj": {}
+    "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker_Teste\\Poker_Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\Poker.csproj": {
+    "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\Poker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\Poker.csproj",
+        "projectUniqueName": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\Poker.csproj",
         "projectName": "Poker",
-        "projectPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\Poker.csproj",
+        "projectPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\Poker.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\obj\\",
+        "outputPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,14 +107,14 @@
         }
       }
     },
-    "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker_Teste\\Poker_Teste.csproj": {
+    "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker_Teste\\Poker_Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker_Teste\\Poker_Teste.csproj",
+        "projectUniqueName": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker_Teste\\Poker_Teste.csproj",
         "projectName": "Poker_Teste",
-        "projectPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker_Teste\\Poker_Teste.csproj",
+        "projectPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker_Teste\\Poker_Teste.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker_Teste\\obj\\",
+        "outputPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker_Teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -136,8 +136,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\Poker.csproj": {
-                "projectPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\Poker.csproj"
+              "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\Poker.csproj": {
+                "projectPath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\Poker.csproj"
               }
             }
           }

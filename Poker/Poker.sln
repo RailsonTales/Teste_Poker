@@ -5,7 +5,18 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poker", "Poker.csproj", "{1E3641E3-9BCF-4797-9B50-13C2CA37D66A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker_Teste", "..\Poker_Teste\Poker_Teste.csproj", "{AA5B5F16-DA56-4D1B-A12A-2831666DA235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poker_Teste", "..\Poker_Teste\Poker_Teste.csproj", "{AA5B5F16-DA56-4D1B-A12A-2831666DA235}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{1F1B1995-30A8-411E-A457-91F18DA56D02}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Pictures\Screenshots\Aplicação rodando no Docker.png = ..\..\..\..\..\Pictures\Screenshots\Aplicação rodando no Docker.png
+		..\..\..\..\..\Pictures\Screenshots\banco de dados poker.png = ..\..\..\..\..\Pictures\Screenshots\banco de dados poker.png
+		..\..\..\..\..\Pictures\Screenshots\testes básicos.png = ..\..\..\..\..\Pictures\Screenshots\testes básicos.png
+		..\..\..\..\..\Pictures\Screenshots\testes das funcionalidades do poker.png = ..\..\..\..\..\Pictures\Screenshots\testes das funcionalidades do poker.png
+		..\..\..\..\..\Pictures\Screenshots\testes de criar usuáro - listar usuários e autenticação e autorização.png = ..\..\..\..\..\Pictures\Screenshots\testes de criar usuáro - listar usuários e autenticação e autorização.png
+		..\..\..\..\..\Pictures\Screenshots\todos os endpoints.png = ..\..\..\..\..\Pictures\Screenshots\todos os endpoints.png
+		..\..\..\..\..\Downloads\[Suprema] Teste de Desenvolvedor Back.pdf = ..\..\..\..\..\Downloads\[Suprema] Teste de Desenvolvedor Back.pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

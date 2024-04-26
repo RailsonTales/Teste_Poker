@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bM9RvJ/iTOTCgFOkiXpZVX/t4LWEov+VlSotiANCYOvCVFMagLkDTLKDIJYnRMXqiQQ6j9xbHQcIm/NfwBQ/Ww==",
+  "dgSpecHash": "A2mbRfMpD83rgPj8ZiPOvk3psSePbnn5hM7M0sZsoC0dohnSZyhJK5d2OFpAvjp1BRS323ljaf66D7dJf39IKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\Poker.csproj",
+  "projectFilePath": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\Poker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Master\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Master\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

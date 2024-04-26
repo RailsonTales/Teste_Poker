@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oqpMdchJqeDMj5nUxpNDEMYX7olHGY4/ivbDKjLX8wA=",
+  "Hash": "ofZWiWTQLh6kWHc7+bGjGX6TAmvV6TwJo5WSIqgjWX8=",
   "Source": "Poker",
   "BasePath": "_content/Poker",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Master\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Poker.styles.css",
+      "Identity": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Poker.styles.css",
       "SourceId": "Poker",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Poker",
       "RelativePath": "Poker.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Poker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Poker.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Master\\source\\repos\\Teste_Wagner\\Teste_Poker\\Poker\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Poker.styles.css"
     }
   ]
 }
